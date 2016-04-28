@@ -1,7 +1,5 @@
 Stormy
 ======
-----------
-
 
 Stormy is a weather app for Android. Modified to use location services and different sources of weather data.
 
@@ -16,7 +14,7 @@ Currently just uses Forcast.io just like stock Stormy, but easily extendable to 
 
 Screens
 ------
-----------
+
 ![alt tag](https://raw.githubusercontent.com/aman-ar/Stormy/master/IMG-20160427-WA0003.jpg)
 
 ![alt tag](https://raw.githubusercontent.com/aman-ar/Stormy/master/IMG-20160427-WA0004.jpg)
